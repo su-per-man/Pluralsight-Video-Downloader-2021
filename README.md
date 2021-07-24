@@ -1,6 +1,7 @@
 # Pluralsight Downloader Chrome Extension
 
-Chrome Extension to download Pluralsight courses
+[LATEST] Chrome Extension to download Pluralsight courses
+Tested & Verified on July 2021
 
 Author: **Suman Kumar**
 
