@@ -2,13 +2,13 @@
 
 [LATEST] Chrome Extension to download Pluralsight courses
 
-Tested & Verified on July 2021
+Modified code Tested & Verified on July 2021
 
 Author: **Suman Kumar**
 
 ## Inspiration and Why
 
-This chrome extension is a clone of project [**Pluralsight Course Downloader**](https://github.com/vatz88/Pluralsight-Course-Downloader) by [**vatz88**](https://github.com/vatz88). 
+This chrome extension was previously developed by [**vatz88**](https://github.com/vatz88).
 <br><br>
 The old extension stopped working because of the changes in entire Pluralsight strcuture. Along with this there were some issues in that project.
 
